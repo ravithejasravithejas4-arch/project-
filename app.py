@@ -5,7 +5,7 @@ from io import BytesIO
 
 def main():
     st.set_page_config(page_title="ssb 1.pdf", layout="wide")
-    st.image("ssb 1.pdf")
+    st.image("03a451a6-417b-4aa8-b3c4-f3fb09927b45.jpg")
     st.title(" PragyanAI Multi-Functional Media Hub")
     
     # Create Tabs for Video, YouTube, and PDF
